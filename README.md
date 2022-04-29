@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xalPeter
+- 👋 Hi, I’m @xalPeter. I'm working as systems analyst for [XAL](www.xal.com).
 - 👀 I’m interested in creating stable systems.
 - 🌱 I’m currently learning Microsofts Power Platform.
 - 💞️ I’m looking to collaborate on reducing complexity in social systems. I see non-humans, like software, as important part of social systems.
